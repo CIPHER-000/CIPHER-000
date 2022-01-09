@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CIPHER-000, I'm a certified python developer, programmer/AI resercher.
-- I'm currently taking a computer science course offerd by Harvard University
+- I'm currently taking a computer science course offerd by Harvard University,
 - 👀 I’m interested in basically everything tech(programming, gaming, hacking, webdesign, software dev, metaverse projects e.t.c).
 - 🌱 I’m currently learning c++,python,django,machine learning & deep learning,
 - 💞️ I’m looking to collaborate on programming projects of any kind,
