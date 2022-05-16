@@ -3,7 +3,7 @@
 - 👀 I’m interested in basically everything tech(programming, gaming, hacking, webdesign, software dev, metaverse projects e.t.c).
 - 🌱 I’m currently learning c++,python,django,machine learning & deep learning,
 - 💞️ I’m looking to collaborate on programming projects of any kind,
-- 📫 You can reach me via whatsapp(08062911861) or discord(CIPHER_X).
+- 📫 You can reach me via whatsapp(08062911861) or discord(CIPHER-000).
 
 <!---
 CIPHER-000/CIPHER-000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
