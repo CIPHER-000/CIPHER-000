@@ -1,4 +1,4 @@
-![This is an image](https://www.istockphoto.com/vector/toxic-kid-esport-mascot-logo-design-gm1210233004-350516630.svg)
+![This is an image](https://www.istockphoto.com/vector/toxic-kid-esport-mascot-logo-design-gm1210233004-350516630.jpg)
 
 
 
