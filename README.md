@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&theme=dark)](https://git.io/streak-stats)
 
-〽️:## My Github Stats
+## 〽️ My Github Stats
 
 
 
