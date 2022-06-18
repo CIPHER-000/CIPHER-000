@@ -1,4 +1,4 @@
-![This is an image](file:///C:/Users/Favour/Downloads/istockphoto-1210233004-612x612-_1_.svg)
+![This is an image](http://www.w3.org/2000/svg)
 
 
 
