@@ -19,7 +19,9 @@
 
  🚀: **Languages and Tools**
 
-![css icon small](https://user-images.githubusercontent.com/97407958/174454643-50feb87f-2359-44c4-9030-fa7d42fdbd62.png) ![HTML icon](https://user-images.githubusercontent.com/97407958/174452563-6237b0a1-f19b-4ff5-9458-bee6541c1529.png) ![SQL icon](https://user-images.githubusercontent.com/97407958/174452576-e8c9b796-17b1-4767-b8f0-a9f2ef8a1f30.png) ![JS icon](https://user-images.githubusercontent.com/97407958/174452584-1eaf98b1-6133-43f5-b07d-39da84392b5b.png) ![python icon](https://user-images.githubusercontent.com/97407958/174452593-ca0931ae-afbc-462d-9b67-2d5c886738e7.png)
+![css icon small](https://user-images.githubusercontent.com/97407958/174455178-ec82dae3-a89a-492f-8b5e-53c1db6449ff.png) ![HTML icon](https://user-images.githubusercontent.com/97407958/174454856-35171e84-578c-4387-bb5c-e136913c210e.png) ![SQL icon small](https://user-images.githubusercontent.com/97407958/174455214-c1e34df9-e4d1-45ff-94c2-e25f5b975164.png) ![JS icon](https://user-images.githubusercontent.com/97407958/174452584-1eaf98b1-6133-43f5-b07d-39da84392b5b.png) ![python icon small](https://user-images.githubusercontent.com/97407958/174455226-91370788-791b-4c52-803e-f5cbc64429e2.png) ![prog_flask small](https://user-images.githubusercontent.com/97407958/174455365-5ec1dde7-2b1f-4571-83a5-bff8a91a78b9.png)
+
+
 
 
 
