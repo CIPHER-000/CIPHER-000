@@ -3,9 +3,9 @@
 
 
 
-                                 **# HI👋, I'm Henry**
+                                                          # **HI👋, I'm Henry**
                                  
-**A Software Developer based in Ibadan,Nigeria**
+                                               **A Software Developer based in Ibadan,Nigeria**
 
 
 
