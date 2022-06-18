@@ -11,8 +11,8 @@
 
 ## 🙎‍♂️ About Me
 
-- 💻: I love coding alot and I take pleasure in acquiring new skills.
-- 🌎: My **inspiration** comes from seeing young people like me doing great things in the world of tech, it's **thrilling**.
+- 💻 I love coding alot and I take pleasure in acquiring new skills.
+- ✨ My **inspiration** comes from seeing young people like me doing great things in the world of tech, it's **thrilling**.
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **projects** of any kind,
 - 📫 You can reach me via henrygiwa000@gmail.com, discord(CIPHER_X#3085).
 - 🎮: Hobby: Playing video games(alot:smile:).
