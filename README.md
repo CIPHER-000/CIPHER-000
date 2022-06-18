@@ -3,13 +3,19 @@
 
 
 
-                                                          # **HI👋, I'm Henry**
+
+ # _______________________ Hi:v:, I'm Henry :robot:___________________
                                  
-                                               **A Software Developer based in Ibadan,Nigeria**
+ **A Software Developer based in Ibadan,Nigeria**
 
 
+## 🙎‍♂️ About Me
 
-- 📫 You can reach me via Email(henrygiwa000@gmail.com), whatsapp(08062911861), discord(CIPHER_X#3085) and twitter(https://twitter.com/Henry_Wi1der).
+- :computer: I love coding alot and I take pleasure in acquiring new skills.
+- :earth_americas: My **inspiration** comes from seeing young people like me doing great things in the world of tech, it's **thrilling**.
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **projects** of any kind,
+- 📫 You can reach me via henrygiwa000@gmail.com, discord(CIPHER_X#3085).
+- :video_game: Hobby: Playing video games(alot:smile:).
 
 <!---
 CIPHER-000/CIPHER-000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
