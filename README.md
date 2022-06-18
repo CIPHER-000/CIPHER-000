@@ -3,7 +3,7 @@
 
 
 
-
+[^note]
 - 👋 Hi, I’m Henry Giwa, I'm a certified Computer Scientist/Programmer.
 - I'm currently taking a computer science course offerd by Harvard University(CS50),
 - 👀 I’m interested in basically everything tech(programming, gaming, hacking, webdesign, software dev, metaverse projects e.t.c).
