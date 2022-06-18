@@ -17,7 +17,7 @@
 - 📫 You can reach me via henrygiwa000@gmail.com, discord(CIPHER_X#3085).
 - 🎮: Hobby: Playing video games(alot:smile:).
 
- 🚀: **Languages and Tools**
+ 🚀 **Languages and Tools**
 
 ![css icon small](https://user-images.githubusercontent.com/97407958/174455178-ec82dae3-a89a-492f-8b5e-53c1db6449ff.png) ![HTML icon](https://user-images.githubusercontent.com/97407958/174454856-35171e84-578c-4387-bb5c-e136913c210e.png) ![SQL icon small](https://user-images.githubusercontent.com/97407958/174455214-c1e34df9-e4d1-45ff-94c2-e25f5b975164.png) ![JS icon](https://user-images.githubusercontent.com/97407958/174452584-1eaf98b1-6133-43f5-b07d-39da84392b5b.png) ![python icon small](https://user-images.githubusercontent.com/97407958/174455226-91370788-791b-4c52-803e-f5cbc64429e2.png) ![prog_flask small](https://user-images.githubusercontent.com/97407958/174455365-5ec1dde7-2b1f-4571-83a5-bff8a91a78b9.png)
 
