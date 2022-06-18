@@ -1,10 +1,4 @@
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/97407958/174435857-b15b40b9-c550-4726-bce4-57f0df7cea8b.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 ![istockphoto-1210233004-612x612-_1_](https://user-images.githubusercontent.com/97407958/174435857-b15b40b9-c550-4726-bce4-57f0df7cea8b.svg)
 
 
