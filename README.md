@@ -2,11 +2,7 @@
 
 
 
-
-![istockphoto-1210233213-612x612](https://user-images.githubusercontent.com/97407958/174435830-34ee1df0-8462-4aaf-b965-60531198855d.jpg)
-
-
-
+![istockphoto-1210233004-612x612-_1_](https://user-images.githubusercontent.com/97407958/174435857-b15b40b9-c550-4726-bce4-57f0df7cea8b.svg)
 
 
 
