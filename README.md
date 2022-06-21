@@ -34,6 +34,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&theme=highcontrast)](https://git.io/streak-stats)
 
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/CIPHER-000#3085" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CIPHER-000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_henrii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Henry_Wi1der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ## 〽️ My Github Stats
 
 
