@@ -18,9 +18,19 @@
 - 🎮: Hobby: Playing video games(alot:smile:).
 
 
- ## 🚀 Languages and Tools:
+### 🚀 Skills:
 
-![css icon small](https://user-images.githubusercontent.com/97407958/174455178-ec82dae3-a89a-492f-8b5e-53c1db6449ff.png) ![HTML icon](https://user-images.githubusercontent.com/97407958/174454856-35171e84-578c-4387-bb5c-e136913c210e.png) ![SQL icon small](https://user-images.githubusercontent.com/97407958/174455214-c1e34df9-e4d1-45ff-94c2-e25f5b975164.png) ![JS icon small](https://user-images.githubusercontent.com/97407958/174455402-f38323dc-b18b-49a5-90ec-19c96a8d8fba.png) ![python icon small](https://user-images.githubusercontent.com/97407958/174455226-91370788-791b-4c52-803e-f5cbc64429e2.png) ![prog_flask small](https://user-images.githubusercontent.com/97407958/174455365-5ec1dde7-2b1f-4571-83a5-bff8a91a78b9.png)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&theme=highcontrast)](https://git.io/streak-stats)
 
