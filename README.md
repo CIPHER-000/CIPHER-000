@@ -32,18 +32,18 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&theme=highcontrast)](https://git.io/streak-stats)
+<a href="http://www.github.com/CIPHER-000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/CIPHER-000#3085" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CIPHER-000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_henrii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Henry_Wi1der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
 ## 〽️ My Github Stats
 
 <a href="http://www.github.com/CIPHER-000"><img src="https://github-readme-stats.vercel.app/api?username=CIPHER-000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="CIPHER-000's GitHub stats" /></a>
 
-<a href="http://www.github.com/CIPHER-000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/CIPHER-000"><img src="https://activity-graph.herokuapp.com/graph?username=CIPHER-000&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
