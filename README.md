@@ -45,13 +45,13 @@
 <a href="https://github.com/CIPHER-000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIPHER-000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-### 🧑‍🤝‍🧑 Socials
+## 🧑‍🤝‍🧑 Socials
 
 <p align="left"> <a href="https://discord.com/users/CIPHER-000#3085" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CIPHER-000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_henrii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Henry_Wi1der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 
-### Top Repositories
+## Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/CIPHER-000/Basic_Computer_Games" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CIPHER-000&repo=Basic_Computer_Games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/CIPHER-000/MY_CS50_PROJECTS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CIPHER-000&repo=MY_CS50_PROJECTS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
