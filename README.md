@@ -50,17 +50,6 @@
 <p align="left"> <a href="https://discord.com/users/CIPHER-000#3085" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CIPHER-000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_henrii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Henry_Wi1der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-
-## Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/CIPHER-000/ArcNetGroups" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CIPHER-000&repo=ArcNetGroups&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/CIPHER-000/FundNook" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CIPHER-000&repo=FundNook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/CIPHER-000/Decellar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CIPHER-000&repo=Decellar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-
-
 <!---
 CIPHER-000/CIPHER-000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
