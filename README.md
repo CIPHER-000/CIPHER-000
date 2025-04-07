@@ -1,4 +1,4 @@
-![cover]([[https://imgur.com/DTYTpgZ](https://imgur.com/a/zcBD3Tg))](https://private-user-images.githubusercontent.com/97407958/431047845-d336772d-1487-40a8-90f3-ef55f6a20b85.png)
+![cover](https://private-user-images.githubusercontent.com/97407958/431047845-d336772d-1487-40a8-90f3-ef55f6a20b85.png)
 
 # Hey there! 👋 I'm Henry Giwa
 
