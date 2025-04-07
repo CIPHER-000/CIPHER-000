@@ -1,4 +1,4 @@
-![cover](https://imgur.com/DTYTpgZ)
+![cover]([https://imgur.com/DTYTpgZ](https://imgur.com/a/zcBD3Tg))
 
 # Hey there! 👋 I'm Henry Giwa
 
