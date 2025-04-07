@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/97407958/431047845-d336772d-1487-40a8-90f3-ef55f6a20b85.png)
+![Image](https://github.com/user-attachments/assets/c92761ca-b5c4-4233-b3da-82e3e2717919.png)
 
 # Hey there! 👋 I'm Henry Giwa
 
