@@ -1,5 +1,5 @@
 <!-- Replace this banner with a custom one -->
-![Banner](https://your-banner-image-url)
+![Banner](https://raw.githubusercontent.com/CIPHER-000/CIPHER-000/main/assets/banner.png)
 
 # Hi, I'm Henry Giwa 👋
 
