@@ -210,9 +210,6 @@ https://www.linkedin.com/in/giwahenry
 🐙 **GitHub**  
 https://github.com/CIPHER-000
 
-𝕏 **X (Twitter)**  
-https://twitter.com/Henry_Wi1der
-
 ---
 
 > *"Great AI products aren't built by choosing better models. They're built by designing better systems."*
