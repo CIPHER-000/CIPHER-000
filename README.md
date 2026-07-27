@@ -1,40 +1,183 @@
-![Image](https://github.com/CIPHER-000/Vehicle_Test/blob/main/ChatGPT%20Image%20Apr%207,%202025,%2006_19_30%20PM.png)
+<!-- Replace this banner with a custom one -->
+![Banner](https://your-banner-image-url)
 
-# Hey there! 👋 I'm Henry Giwa
+# Hi, I'm Henry Giwa 👋
 
-### Software Engineer | Backend Specialist | Builder @ Arcnet
+### Full-Stack Engineer • AI Systems Architect • Founder @ ArcnetLabs
 
-🚀 I'm a passionate full-stack developer based in Ibadan, Nigeria, with a strong focus on backend architecture, system design, and shipping real-world products.
+I build production software and AI systems that are designed to be reliable beyond demos.
 
----
-
-## 👨🏾‍💻 About Me
-
-- 🛠️ Currently building [Arcnet](https://arcnetlabs.com) — a decentralized social platform
-- 🧠 Always learning and experimenting with emerging technologies like **Node.js**, **NestJS**, **Flask**, and **blockchain** protocols
-- 💡 I enjoy solving complex problems and designing scalable backend systems
-- 🤝 Open to collaboration on freelance, open source, or mission-driven tech projects
-- 📫 Reach me at **henrywilder000@gmail.com** or Discord: **CIPHER_X#3085**
+My work spans full-stack engineering, AI orchestration, system architecture, long-term memory, semantic retrieval, model routing, cloud infrastructure, and production AI systems.
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks**  
-`JavaScript`, `TypeScript`, `Python`, `Node.js`, `Flask`, `Express`, `HTML5`, `CSS3`
-
-**Databases**  
-`MongoDB`, `MySQL`, `Mongoose`, `Prisma`
-
-**Tools & DevOps**  
-`Git`, `Docker`, `Postman`, `Heroku`, `Render`, `AWS (SES/S3/RDS/Amplify)`
-
-**Other Interests**  
-`OAuth`, `JWT`, `API Design`, `Security Compliance`, `Real-time Systems`
+> [!NOTE]
+> **Most of my recent engineering work has been on commercial products and client systems, so many of my latest repositories are private.**
+>
+> This GitHub primarily contains personal projects and experiments. If you're interested in the AI systems I've been designing, the best place to start is my AI Systems Portfolio:
+>
+> **https://ai-systems-architecture-portfolio.netlify.app/**
 
 ---
 
-## 📊 GitHub Stats
+# What I Enjoy Working On
+
+I enjoy solving engineering problems where software architecture and AI meet.
+
+Some of the problems I spend most of my time thinking about include:
+
+- Designing AI systems that combine deterministic logic with LLM reasoning.
+- Building production software that scales beyond prototypes.
+- Model routing and intelligent orchestration.
+- Context engineering and long-term memory systems.
+- Retrieval architectures and knowledge systems.
+- AI evaluation and benchmarking.
+- Distributed systems and cloud infrastructure.
+- Building products that remain reliable under real-world usage instead of demo environments.
+
+---
+
+# Current Projects
+
+## ♟️ ChessIQ
+
+ChessIQ is an AI chess coaching platform designed around reliable AI systems rather than simply integrating LLMs.
+
+Its architecture combines deterministic chess analysis with conversational AI to deliver personalised coaching while balancing capability, latency, reliability, and cost.
+
+Core architecture includes:
+
+- Deterministic chess analysis (Stockfish)
+- LLM-powered coaching
+- Model-agnostic routing
+- Long-term memory
+- Semantic retrieval
+- Behavioural pattern recognition
+- Context assembly
+- Player profiling
+- Cost-aware model selection
+- AI orchestration pipelines
+
+The engineering philosophy behind ChessIQ is simple:
+
+> *The quality of an AI product depends far more on the architecture around the models than the models themselves.*
+
+---
+
+## 🚀 ArcnetLabs
+
+Founder of ArcnetLabs, where I'm building practical AI products that solve real-world problems through thoughtful systems design.
+
+Current areas of interest include:
+
+- AI Agents
+- Context Engineering
+- Long-Term Memory
+- AI Orchestration
+- Evaluation Frameworks
+- Retrieval Architectures
+- Human-AI Interaction
+- Production AI Infrastructure
+
+---
+
+# Professional Experience
+
+Over the last few years I've worked across full-stack engineering and AI systems engineering, taking products from prototype to production while designing the infrastructure and AI architecture behind them.
+
+Some highlights include:
+
+- Leading the stabilisation and production launch of a healthcare platform.
+- Designing AI system architectures that combine deterministic reasoning with LLM-powered reasoning.
+- Building scalable full-stack applications and cloud infrastructure.
+- Designing model-routing systems that balance capability, latency, reliability, and cost.
+- Benchmarking frontier AI models using difficult reasoning and coding tasks to expose failure modes and improve evaluation quality.
+
+---
+
+# Tech Stack
+
+## 🧠 AI Systems
+
+- AI Agents
+- LLM Orchestration
+- Model Routing
+- Context Engineering
+- Long-Term Memory
+- Semantic Retrieval
+- Retrieval-Augmented Generation (RAG)
+- Evaluation Frameworks
+- Prompt Engineering
+
+---
+
+## ⚙️ Backend
+
+- Node.js
+- TypeScript
+- Python
+- Express
+- Flask
+- Django
+- REST APIs
+- WebSockets
+- Authentication
+- PostgreSQL
+- MongoDB
+- MySQL
+
+---
+
+## 🎨 Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+- Chakra UI
+- Redux
+- React Query
+
+---
+
+## ☁️ Infrastructure & DevOps
+
+- AWS
+- Docker
+- Redis
+- Firebase
+- GitHub Actions
+- CI/CD
+- Linux
+- Git
+
+---
+
+# Featured Links
+
+### 🧠 AI Systems Portfolio
+
+https://ai-systems-architecture-portfolio.netlify.app/
+
+---
+
+### 🌐 ArcnetLabs
+
+https://arcnetlabs.org
+
+---
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/giwahenry
+
+---
+
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CIPHER-000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -50,11 +193,20 @@
 
 ---
 
-## 🌐 Connect With Me
+# Connect With Me
 
-<p align="left">
-  <a href="https://discord.com/users/CIPHER-000#3085" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a>
-  <a href="https://www.github.com/CIPHER-000" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
-  <a href="https://www.linkedin.com/in/giwahenry" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
-  <a href="https://www.twitter.com/Henry_Wi1der" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>
-</p>
+📧 **Email**  
+**henrywilder000@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/giwahenry
+
+🐙 **GitHub**  
+https://github.com/CIPHER-000
+
+𝕏 **X (Twitter)**  
+https://twitter.com/Henry_Wi1der
+
+---
+
+> *"Great AI products aren't built by choosing better models. They're built by designing better systems."*
