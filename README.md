@@ -14,7 +14,13 @@ My work spans full-stack engineering, AI orchestration, system architecture, lon
 > [!NOTE]
 > **Most of my recent engineering work has been on commercial products and client systems, so many of my latest repositories are private.**
 >
-> This GitHub primarily contains personal projects and experiments. If you're interested in the AI systems I've been designing, the best place to start is my AI Systems Portfolio:
+> This GitHub primarily contains personal projects and experiments.
+>
+> For a broader overview of my experience, feel free to visit my **LinkedIn**:
+>
+> **https://www.linkedin.com/in/giwahenry**
+>
+> If you're specifically interested in the AI systems and architectures I've been designing, I've documented many of them here:
 >
 > **https://ai-systems-architecture-portfolio.netlify.app/**
 
